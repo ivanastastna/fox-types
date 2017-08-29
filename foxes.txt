@@ -1,11 +1,11 @@
-Fox types in the world
+Fox types in the world and their latin names
 
-Cape fox
-Swift fox
-Crab-eating fox
-Culpeo
-Hoary fox
-Bat-eared fox
-Island fox
-Red fox
-Polar fox
+Cape fox - Vulpes chama
+Swift fox - Vulpes velox
+Crab-eating fox - Genus Cerdocyon
+Culpeo - Culpeo
+Hoary fox - Lycalopex vetulus
+Bat-eared fox - Genus Otocyon
+Island fox - Urocyon littoralis
+Red fox - Vulpes vulpes
+Polar fox - Vulpes lagopus
