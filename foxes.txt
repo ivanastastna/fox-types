@@ -1,4 +1,4 @@
-Fox types in the world and their latin names
+Fox types in the world and their latin names - bullet point list
 
 Cape fox - Vulpes chama
 Swift fox - Vulpes velox
@@ -9,4 +9,3 @@ Bat-eared fox - Genus Otocyon
 Island fox - Urocyon littoralis
 Red fox - Vulpes vulpes
 Polar fox - Vulpes lagopus
-Fennec fox - Vulpes zerda
