@@ -9,3 +9,4 @@ Bat-eared fox - Genus Otocyon
 Island fox - Urocyon littoralis
 Red fox - Vulpes vulpes
 Polar fox - Vulpes lagopus
+Fennec fox - Vulpes zerda
