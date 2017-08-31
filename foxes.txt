@@ -17,3 +17,4 @@ Wolf types in the world and their latin names - bullet point list
 * Indian wolf - Canis lupus pallipes
 * Eurasian wolf - Canis lupus lupus
 * Hokkaido wolf - Canis lupus hattai
+* Japanese wolf - Canis lupus hodophilax
