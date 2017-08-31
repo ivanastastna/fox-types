@@ -15,3 +15,5 @@ Wolf types in the world and their latin names - bullet point list
 * Mexican wolf - Canis lupus baileyi
 * Arctic wolf - Canis lupus arctos
 * Indian wolf - Canis lupus pallipes
+* Eurasian wolf - Canis lupus lupus
+* Hokkaido wolf - Canis lupus hattai
