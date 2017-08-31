@@ -9,3 +9,9 @@ Fox types in the world and their latin names - bullet point list
 * Island fox - Urocyon littoralis
 * Red fox - Vulpes vulpes
 * Polar fox - Vulpes lagopus
+
+Wolf types in the world and their latin names - bullet point list
+
+* Mexican wolf - Canis lupus baileyi
+* Arctic wolf - Canis lupus arctos
+* Indian wolf - Canis lupus pallipes
